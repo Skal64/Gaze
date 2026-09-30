@@ -67,7 +67,7 @@ class Program
             _trayIcon.Icon = SystemIcons.Application; // Fallback if missing
         }
 
-        _trayIcon.Text = "Gaze Zoom Engine";
+        _trayIcon.Text = "Gaze";
         _trayIcon.Visible = true;
 
         ContextMenuStrip contextMenu = new ContextMenuStrip();
