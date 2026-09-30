@@ -1,0 +1,10 @@
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+Desktop.ini
