@@ -8,12 +8,6 @@
   <strong>A lightweight Windows magnification utility that works seamlessly in the background.</strong>
 </p>
 
-<p align="center">
-  <img src="https://shields.io" alt="Platform Windows" />
-  <img src="https://shields.io" alt="License MIT" />
-  <img src="https://shields.io" alt="Status Active" />
-</p>
-
 ---
 
 ## 🎬 Preview
